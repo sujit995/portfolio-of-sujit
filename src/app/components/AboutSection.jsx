@@ -43,7 +43,7 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-          Hello! 👋 I'm Sujit Mishra, a motivated Junior Frontend Developer with a knack for translating design visions into seamless digital experiences. Proficient in HTML, CSS, and JavaScript, I'm on a mission to craft user-centric websites that leave a lasting impression.
+          Hello! 👋 I&apos;m Sujit Mishra, a motivated Junior Frontend Developer with a knack for translating design visions into seamless digital experiences. Proficient in HTML, CSS, and JavaScript, I&apos;m on a mission to craft user-centric websites that leave a lasting impression.
 Armed with a keen eye for detail, I thrive on the challenges of frontend development. From responsive layouts to dynamic user interfaces, I bring a technical edge and creativity to every project.
           </p>
           <div className="flex flex-row justify-start mt-8">
